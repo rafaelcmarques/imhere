@@ -11,7 +11,23 @@
 
 ## 🖥️ Telas Preview
 
-Em contrução 🚧
+#### Lista vazia
+![Screenshot from 2023-08-03 17-42-13](https://github.com/rafaelcmarques/imhere/assets/55025119/9853c5d1-f8ed-473b-b5c0-6cd1ac8fae94)
+
+### Lista com Participantes
+![Screenshot from 2023-08-03 17-43-36](https://github.com/rafaelcmarques/imhere/assets/55025119/59503008-c580-411e-97c0-40ed714124f7)
+
+### Participante já existente
+![Screenshot from 2023-08-03 17-43-50](https://github.com/rafaelcmarques/imhere/assets/55025119/afc69112-a463-4349-8675-fd4c8fc2ac7e)
+
+#### Removendo participante
+![Screenshot from 2023-08-03 17-43-50](https://github.com/rafaelcmarques/imhere/assets/55025119/c1a05fa9-839d-437e-8773-8bef7c5812dd)
+
+
+
+
+
+
 
 
 
