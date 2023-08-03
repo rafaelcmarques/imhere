@@ -51,8 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - expo
 - typescript
 
-
-
 ## 💻 Projeto
 
-O I'm Here  é um aplicativo desenvolvido em React Native . Ele permite que os usuários registrem a lista de presença de um evento de forma fácil e intuitiva. Os participantes do evento podem ser adicionados à lista, e o aplicativo oferece uma interface amigável para gerenciar e visualizar os presentes registrados
+O I'm Here  é um aplicativo desenvolvido em React Native . 
+Ele permite que os usuários registrem a lista de presença de um evento de forma fácil e intuitiva. 
